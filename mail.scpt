@@ -1,7 +1,7 @@
 set recipientName to "Bruno da Luz"
 set recipientAddress to "brunodlz@mail.com"
 set theSubject to "AppleScript Automated Email"
-set theContent to "This email was created and send using AppleScript\nI'm learning about AppleScript :)\nIt's is beatiful o//"
+set theContent to "This email was created and send using AppleScript\nI'm learning about AppleScript."
 
 tell application "Mail"
 
